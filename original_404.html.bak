@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Redirecting...</title>
+    <meta name="description" content="Redirecting to homepage">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pankaj Tour & Travels">
+    <meta property="og:description" content="Click to open Pankaj Tour & Travels">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Pankaj Tour & Travels">
+    <meta name="twitter:description" content="Click to open Pankaj Tour & Travels">
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+        }
+        h2 { font-weight: 600; margin-bottom: 10px; }
+        p { color: #666; margin-bottom: 30px; }
+        
+        /* Spinner Animation */
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #000; /* Black spinner to match common branding */
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .manual-link {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+
+    <script>
+        window.onload = function() {
+          window.location.replace("/");
+        };
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Redirecting...</h2>
+        <p>Taking you to home page</p>
+        <div class="spinner"></div>
+        <a id="manual-link" class="manual-link" href="/">Click here if not redirected</a>
+    </div>
+</body>
+</html>
