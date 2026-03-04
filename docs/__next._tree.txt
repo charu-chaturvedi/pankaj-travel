@@ -2,7 +2,7 @@
 2:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"ViewportBoundary"]
 4:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-:HL["/_next/static/chunks/7810b2bf973f6dce.css","style"]
+:HL["/_next/static/chunks/7ff29d777b8b2e8c.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/luxury-car-on-mountain-road.jpg","image"]
@@ -12,6 +12,6 @@
 :HL["https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/sonet/sonet_gallery/exterior/sonet_gallery_5.jpg","image"]
 :HL["https://www.rstravelindia.com/blog/wp-content/uploads/2023/01/Luxury-Van-Rental-Kochi.jpg","image"]
 :HL["https://sheenabusesandcoaches.com/wp-content/uploads/2022/05/starliner-1.jpg","image"]
-0:{"buildId":"v_CutvEOAqcObdQwC29eF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+0:{"buildId":"RPkkCv1L6ZFUXYm4TtjIQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Pankaj Tour and Travels"}],["$","meta","1",{"name":"description","content":"Premium inter-city and intra-city cab services across North India."}]]
