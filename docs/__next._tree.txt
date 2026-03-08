@@ -8,10 +8,10 @@
 :HL["/luxury-car-on-mountain-road.jpg","image"]
 :HL["/toyota-innova-suv-white.jpg","image"]
 :HL["/maruti-swift-sedan-silver.jpg","image"]
-:HL["https://wallpapercave.com/wp/wp6669551.jpg","image"]
-:HL["https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/sonet/sonet_gallery/exterior/sonet_gallery_5.jpg","image"]
-:HL["https://www.rstravelindia.com/blog/wp-content/uploads/2023/01/Luxury-Van-Rental-Kochi.jpg","image"]
-:HL["https://sheenabusesandcoaches.com/wp-content/uploads/2022/05/starliner-1.jpg","image"]
-0:{"buildId":"QZ3dDiNZQBnWLlNQIlGJa","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+:HL["/maruti-ertiga.jpeg","image"]
+:HL["/kia-sonet.jpeg","image"]
+:HL["/tempo-traveler.jpg","image"]
+:HL["/luxury-bus.jpeg","image"]
+0:{"buildId":"1NiVqmQDSutHAhLyS5sve","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Pankaj Tour and Travels"}],["$","meta","1",{"name":"description","content":"Premium inter-city and intra-city cab services across North India."}]]
